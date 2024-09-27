@@ -7,7 +7,7 @@ api_id = 'xxxxxxxx'  # Your API ID
 api_hash = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Your API Hash
 
 # Replace with the ID of the public source channel
-source_channel_id = xxxxxxxxxx  # Use the numeric ID here (replace with actual numeric ID)
+source_channel_id = xxxxxxxxxx  # Use the numeric ID here (replace with actual numeric ID) go to the telegram account from where you want to to get the msg then compy any msg and find the 10 digit id(example:-https://t.me/c/1241952302/109360 so here 1241952302 it is the id.
 
 # Replace with the bot username (without @)
 bot_username = 'example1bot'  # The bot's public username
